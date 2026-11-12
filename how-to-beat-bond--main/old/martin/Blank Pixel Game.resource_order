@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"red","order":1,"path":"sprites/red/red.yy",},
+    {"name":"Sprite2","order":3,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"TileSet1","order":2,"path":"tilesets/TileSet1/TileSet1.yy",},
+  ],
+}
